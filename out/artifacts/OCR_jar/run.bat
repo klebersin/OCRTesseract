@@ -1,0 +1,1 @@
+java -jar C:\Users\klebe\IdeaProjects\OCR\out\artifacts\OCR_jar\OCR.jar
